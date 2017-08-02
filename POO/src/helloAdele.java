@@ -5,6 +5,8 @@ public class helloAdele {
 		System.out.print("Hello, it's meee...");
 		System.out.print("I'm in California");
 		System.out.print("Or no");
+		System.out.print("Or no");
+		System.out.print("Or no");
 			
 		
 	}
